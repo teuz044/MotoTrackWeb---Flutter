@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:rifa_projeto_desktop/core/ui/class_estilos_texto.dart';
+import 'package:moto_tracker_web/core/ui/class_estilos_texto.dart';
 
 class CustomTextFormFieldNoBorderWidget extends StatelessWidget {
   final String titulo;

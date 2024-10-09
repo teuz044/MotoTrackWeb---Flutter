@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:rifa_projeto_desktop/core/ui/class_estilos_texto.dart';
+import 'package:moto_tracker_web/core/ui/class_estilos_texto.dart';
 import '../session/session.dart' as session;
 
 class CustomDrawerWidget extends StatefulWidget {
